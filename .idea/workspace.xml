@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5b0c200-aaba-4448-89e4-8301ae7ab8ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Bootstrap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/code-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/code-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/computer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/key.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/t_code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/t_code2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ECommerce" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/New folder (3)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
@@ -89,6 +75,8 @@
       <workItem from="1617710444004" duration="3356000" />
       <workItem from="1617780831006" duration="7550000" />
       <workItem from="1627020817666" duration="109000" />
+      <workItem from="1631638026968" duration="908000" />
+      <workItem from="1631707563282" duration="1890000" />
     </task>
     <servers />
   </component>
@@ -105,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
